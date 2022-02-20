@@ -1,0 +1,10 @@
+main()
+{
+	biggest2();
+	factorial();
+	reverse();
+	biggest3();
+	palindrome();
+	sumof2();
+	fibonacci();
+}
