@@ -7,4 +7,5 @@ main()
 	palindrome();
 	sumof2();
 	fibonacci();
+	swapping();
 }
